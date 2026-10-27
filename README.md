@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/randomguy7715-png/Randomguy7715-png/main/assets/banner.png" alt="randomguy7715-png banner" width="100%" style="max-width: 1000px;">
-</p>
-
 <h1 align="center">👋 Welcome to <code>randomguy7715-png</code>'s GitHub Profile</h1>
 
 <p align="center">
@@ -120,13 +116,5 @@ If you're into the technical side of game modding or reverse engineering, I'm al
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/randomguy7715-png/Randomguy7715-png/main/assets/divider.png" alt="divider" width="60%">
-</p>
-
-<p align="center">
   <code>git commit -m "progress: keep building, keep learning"</code>
-</p>
-
-<p align="center">
-  <sub>README crafted with 🖤 • Inspired by cyberpunk aesthetics • Built for GitHub Profile</sub>
 </p>
